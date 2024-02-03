@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d837254a703d794fae5b795104c6e70, type: 3}
+  m_Name: Animal 2
+  m_EditorClassIdentifier: 
+  PlusPursentege: 0
+  timeInSecond: 72
+  Colums: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - K
+    - E
+    - T
+    - N
+    - M
+    - F
+    - E
+    - U
+  - Size: 8
+    Row:
+    - N
+    - Z
+    - W
+    - Z
+    - J
+    - S
+    - S
+    - O
+  - Size: 8
+    Row:
+    - F
+    - A
+    - U
+    - X
+    - R
+    - W
+    - O
+    - B
+  - Size: 8
+    Row:
+    - L
+    - H
+    - M
+    - O
+    - J
+    - L
+    - O
+    - I
+  - Size: 8
+    Row:
+    - D
+    - Z
+    - Z
+    - I
+    - R
+    - F
+    - G
+    - R
+  - Size: 8
+    Row:
+    - B
+    - H
+    - I
+    - X
+    - A
+    - Q
+    - N
+    - A
+  - Size: 8
+    Row:
+    - Q
+    - V
+    - B
+    - Z
+    - V
+    - C
+    - O
+    - C
+  - Size: 8
+    Row:
+    - M
+    - U
+    - L
+    - O
+    - H
+    - F
+    - M
+    - R
+  searchWords:
+  - Found: 0
+    word: MONGOOSE
+  - Found: 0
+    word: CARIBOU
+  - Found: 0
+    word: CAIMAN
+  - Found: 0
+    word: ZORSE

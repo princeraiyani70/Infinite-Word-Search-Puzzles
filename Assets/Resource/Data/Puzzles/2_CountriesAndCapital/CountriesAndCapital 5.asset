@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d837254a703d794fae5b795104c6e70, type: 3}
+  m_Name: CountriesAndCapital 5
+  m_EditorClassIdentifier: 
+  PlusPursentege: 0
+  timeInSecond: 110
+  Colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - S
+    - J
+    - A
+    - K
+    - A
+    - R
+    - T
+    - A
+    - J
+    - L
+  - Size: 10
+    Row:
+    - X
+    - J
+    - D
+    - H
+    - G
+    - S
+    - Q
+    - C
+    - B
+    - Q
+  - Size: 10
+    Row:
+    - Y
+    - A
+    - L
+    - P
+    - V
+    - R
+    - Y
+    - A
+    - D
+    - R
+  - Size: 10
+    Row:
+    - Z
+    - G
+    - A
+    - N
+    - P
+    - P
+    - E
+    - X
+    - M
+    - E
+  - Size: 10
+    Row:
+    - F
+    - D
+    - V
+    - P
+    - R
+    - R
+    - A
+    - E
+    - V
+    - V
+  - Size: 10
+    Row:
+    - F
+    - W
+    - U
+    - U
+    - I
+    - A
+    - A
+    - X
+    - S
+    - K
+  - Size: 10
+    Row:
+    - J
+    - Y
+    - S
+    - T
+    - K
+    - G
+    - I
+    - C
+    - U
+    - O
+  - Size: 10
+    Row:
+    - B
+    - Q
+    - R
+    - O
+    - W
+    - U
+    - W
+    - L
+    - O
+    - H
+  - Size: 10
+    Row:
+    - F
+    - E
+    - Y
+    - L
+    - P
+    - E
+    - G
+    - O
+    - V
+    - G
+  - Size: 10
+    Row:
+    - A
+    - N
+    - T
+    - G
+    - G
+    - I
+    - T
+    - I
+    - A
+    - H
+  searchWords:
+  - Found: 0
+    word: CYPRUS
+  - Found: 0
+    word: PRAGUE
+  - Found: 0
+    word: ERITREA
+  - Found: 0
+    word: SUVA
+  - Found: 0
+    word: GREECE
+  - Found: 0
+    word: HAITI
+  - Found: 0
+    word: JAKARTA

@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d837254a703d794fae5b795104c6e70, type: 3}
+  m_Name: Celebrities 2
+  m_EditorClassIdentifier: 
+  PlusPursentege: 0
+  timeInSecond: 120
+  Colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - D
+    - C
+    - F
+    - H
+    - V
+    - C
+    - J
+    - C
+    - P
+    - S
+  - Size: 10
+    Row:
+    - E
+    - Y
+    - R
+    - K
+    - Y
+    - N
+    - N
+    - H
+    - O
+    - J
+  - Size: 10
+    Row:
+    - S
+    - T
+    - T
+    - I
+    - P
+    - D
+    - A
+    - R
+    - B
+    - C
+  - Size: 10
+    Row:
+    - I
+    - U
+    - A
+    - B
+    - W
+    - D
+    - B
+    - I
+    - S
+    - A
+  - Size: 10
+    Row:
+    - U
+    - K
+    - L
+    - H
+    - Y
+    - B
+    - B
+    - S
+    - H
+    - R
+  - Size: 10
+    Row:
+    - R
+    - W
+    - L
+    - Y
+    - U
+    - Y
+    - J
+    - Z
+    - X
+    - R
+  - Size: 10
+    Row:
+    - C
+    - V
+    - K
+    - N
+    - O
+    - M
+    - A
+    - M
+    - M
+    - E
+  - Size: 10
+    Row:
+    - M
+    - L
+    - U
+    - X
+    - W
+    - N
+    - V
+    - H
+    - Y
+    - Y
+  - Size: 10
+    Row:
+    - O
+    - T
+    - G
+    - N
+    - S
+    - D
+    - L
+    - T
+    - O
+    - A
+  - Size: 10
+    Row:
+    - T
+    - I
+    - O
+    - L
+    - E
+    - I
+    - N
+    - A
+    - D
+    - N
+  searchWords:
+  - Found: 0
+    word: JOHNNY
+  - Found: 0
+    word: CARREY
+  - Found: 0
+    word: EMMA
+  - Found: 0
+    word: DANIEL
+  - Found: 0
+    word: CHRIS
+  - Found: 0
+    word: TOMCRUISE
+  - Found: 0
+    word: BRADPITT

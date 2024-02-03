@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d837254a703d794fae5b795104c6e70, type: 3}
+  m_Name: CountriesAndCapital 3
+  m_EditorClassIdentifier: 
+  PlusPursentege: 0
+  timeInSecond: 110
+  Colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - Y
+    - H
+    - Q
+    - O
+    - U
+    - O
+    - I
+    - O
+    - S
+    - G
+  - Size: 10
+    Row:
+    - N
+    - E
+    - T
+    - T
+    - R
+    - W
+    - B
+    - B
+    - E
+    - H
+  - Size: 10
+    Row:
+    - A
+    - K
+    - R
+    - E
+    - N
+    - A
+    - D
+    - R
+    - O
+    - J
+  - Size: 10
+    Row:
+    - I
+    - K
+    - I
+    - H
+    - X
+    - U
+    - Y
+    - H
+    - U
+    - E
+  - Size: 10
+    Row:
+    - R
+    - B
+    - P
+    - R
+    - A
+    - R
+    - N
+    - Y
+    - L
+    - K
+  - Size: 10
+    Row:
+    - O
+    - L
+    - A
+    - A
+    - I
+    - O
+    - X
+    - I
+    - Q
+    - S
+  - Size: 10
+    Row:
+    - B
+    - W
+    - L
+    - N
+    - Z
+    - B
+    - U
+    - H
+    - V
+    - K
+  - Size: 10
+    Row:
+    - I
+    - H
+    - I
+    - W
+    - S
+    - O
+    - A
+    - L
+    - L
+    - C
+  - Size: 10
+    Row:
+    - M
+    - C
+    - C
+    - A
+    - C
+    - N
+    - X
+    - T
+    - D
+    - Q
+  - Size: 10
+    Row:
+    - F
+    - O
+    - R
+    - M
+    - H
+    - P
+    - S
+    - U
+    - I
+    - K
+  searchWords:
+  - Found: 0
+    word: JORDAN
+  - Found: 0
+    word: TEHRAN
+  - Found: 0
+    word: NAIROBI
+  - Found: 0
+    word: SEOUL
+  - Found: 0
+    word: KIRIBATI
+  - Found: 0
+    word: LAOS
+  - Found: 0
+    word: TRIPOLI

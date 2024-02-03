@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d837254a703d794fae5b795104c6e70, type: 3}
+  m_Name: CountriesAndCapital 1
+  m_EditorClassIdentifier: 
+  PlusPursentege: 0
+  timeInSecond: 80
+  Colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - K
+    - A
+    - B
+    - U
+    - L
+    - F
+    - N
+    - E
+    - P
+    - B
+  - Size: 10
+    Row:
+    - M
+    - K
+    - F
+    - W
+    - R
+    - Y
+    - Y
+    - E
+    - E
+    - T
+  - Size: 10
+    Row:
+    - B
+    - S
+    - O
+    - P
+    - B
+    - S
+    - G
+    - L
+    - U
+    - K
+  - Size: 10
+    Row:
+    - J
+    - K
+    - Z
+    - T
+    - E
+    - J
+    - I
+    - A
+    - A
+    - D
+  - Size: 10
+    Row:
+    - C
+    - O
+    - A
+    - A
+    - V
+    - Z
+    - T
+    - T
+    - G
+    - X
+  - Size: 10
+    Row:
+    - R
+    - P
+    - Z
+    - L
+    - E
+    - Y
+    - E
+    - V
+    - D
+    - Y
+  - Size: 10
+    Row:
+    - P
+    - J
+    - W
+    - P
+    - K
+    - Z
+    - G
+    - I
+    - Q
+    - K
+  - Size: 10
+    Row:
+    - B
+    - E
+    - C
+    - C
+    - A
+    - S
+    - A
+    - A
+    - M
+    - V
+  - Size: 10
+    Row:
+    - R
+    - M
+    - U
+    - C
+    - E
+    - R
+    - X
+    - M
+    - E
+    - H
+  - Size: 10
+    Row:
+    - W
+    - L
+    - H
+    - A
+    - I
+    - N
+    - A
+    - B
+    - L
+    - A
+  searchWords:
+  - Found: 0
+    word: KABUL
+  - Found: 0
+    word: ALBANIA
+  - Found: 0
+    word: BELIZE
+  - Found: 0
+    word: GITEGA
+  - Found: 0
+    word: LATVIA
+  - Found: 0
+    word: SKOPJE

@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d837254a703d794fae5b795104c6e70, type: 3}
+  m_Name: Celebrities 3
+  m_EditorClassIdentifier: 
+  PlusPursentege: 0
+  timeInSecond: 120
+  Colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - I
+    - W
+    - D
+    - O
+    - O
+    - W
+    - T
+    - S
+    - A
+    - E
+  - Size: 10
+    Row:
+    - E
+    - I
+    - A
+    - R
+    - O
+    - Z
+    - V
+    - C
+    - L
+    - N
+  - Size: 10
+    Row:
+    - D
+    - L
+    - O
+    - E
+    - C
+    - S
+    - F
+    - H
+    - I
+    - O
+  - Size: 10
+    Row:
+    - Y
+    - L
+    - N
+    - A
+    - M
+    - K
+    - C
+    - A
+    - J
+    - M
+  - Size: 10
+    Row:
+    - F
+    - S
+    - O
+    - Z
+    - W
+    - T
+    - P
+    - R
+    - R
+    - A
+  - Size: 10
+    Row:
+    - X
+    - M
+    - O
+    - W
+    - E
+    - I
+    - S
+    - L
+    - O
+    - D
+  - Size: 10
+    Row:
+    - C
+    - I
+    - T
+    - R
+    - M
+    - O
+    - J
+    - E
+    - W
+    - T
+  - Size: 10
+    Row:
+    - X
+    - T
+    - Q
+    - L
+    - W
+    - Z
+    - E
+    - S
+    - T
+    - T
+  - Size: 10
+    Row:
+    - J
+    - H
+    - F
+    - U
+    - C
+    - M
+    - M
+    - O
+    - T
+    - A
+  - Size: 10
+    Row:
+    - F
+    - D
+    - N
+    - O
+    - R
+    - E
+    - M
+    - A
+    - C
+    - M
+  searchWords:
+  - Found: 0
+    word: CHARLES
+  - Found: 0
+    word: TOM
+  - Found: 0
+    word: JACKMAN
+  - Found: 0
+    word: 'MATTDAMON '
+  - Found: 0
+    word: ' WILLSMITH'
+  - Found: 0
+    word: EASTWOOD
+  - Found: 0
+    word: CAMERON

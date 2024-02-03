@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d837254a703d794fae5b795104c6e70, type: 3}
+  m_Name: Animal 3
+  m_EditorClassIdentifier: 
+  PlusPursentege: 0
+  timeInSecond: 72
+  Colums: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - K
+    - Y
+    - N
+    - E
+    - S
+    - M
+    - K
+    - G
+  - Size: 8
+    Row:
+    - J
+    - W
+    - F
+    - A
+    - U
+    - I
+    - A
+    - P
+  - Size: 8
+    Row:
+    - J
+    - L
+    - A
+    - S
+    - Y
+    - I
+    - O
+    - L
+  - Size: 8
+    Row:
+    - N
+    - K
+    - S
+    - R
+    - P
+    - H
+    - V
+    - P
+  - Size: 8
+    Row:
+    - Z
+    - E
+    - R
+    - A
+    - T
+    - R
+    - V
+    - X
+  - Size: 8
+    Row:
+    - L
+    - O
+    - L
+    - J
+    - J
+    - H
+    - E
+    - H
+  - Size: 8
+    Row:
+    - I
+    - I
+    - U
+    - T
+    - A
+    - O
+    - O
+    - S
+  - Size: 8
+    Row:
+    - T
+    - Y
+    - L
+    - F
+    - Y
+    - A
+    - M
+    - G
+  searchWords:
+  - Found: 0
+    word: MUSSEL
+  - Found: 0
+    word: MAYFLY
+  - Found: 0
+    word: WARTHOG
+  - Found: 0
+    word: TILAPIA

@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d837254a703d794fae5b795104c6e70, type: 3}
+  m_Name: Celebrities 1
+  m_EditorClassIdentifier: 
+  PlusPursentege: 0
+  timeInSecond: 110
+  Colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - M
+    - R
+    - V
+    - G
+    - Z
+    - Q
+    - G
+    - K
+    - J
+    - M
+  - Size: 10
+    Row:
+    - J
+    - I
+    - N
+    - E
+    - G
+    - E
+    - L
+    - E
+    - D
+    - A
+  - Size: 10
+    Row:
+    - A
+    - H
+    - L
+    - D
+    - Y
+    - W
+    - Q
+    - U
+    - R
+    - D
+  - Size: 10
+    Row:
+    - Y
+    - A
+    - D
+    - E
+    - R
+    - G
+    - N
+    - L
+    - V
+    - O
+  - Size: 10
+    Row:
+    - Z
+    - N
+    - P
+    - M
+    - Y
+    - O
+    - H
+    - G
+    - K
+    - N
+  - Size: 10
+    Row:
+    - S
+    - N
+    - R
+    - I
+    - Y
+    - C
+    - V
+    - S
+    - D
+    - N
+  - Size: 10
+    Row:
+    - Z
+    - A
+    - J
+    - M
+    - N
+    - N
+    - Y
+    - E
+    - V
+    - A
+  - Size: 10
+    Row:
+    - C
+    - X
+    - P
+    - Z
+    - C
+    - K
+    - A
+    - R
+    - U
+    - S
+  - Size: 10
+    Row:
+    - P
+    - Y
+    - Y
+    - G
+    - C
+    - E
+    - G
+    - U
+    - U
+    - Y
+  - Size: 10
+    Row:
+    - G
+    - T
+    - T
+    - I
+    - P
+    - D
+    - A
+    - R
+    - B
+    - S
+  searchWords:
+  - Found: 0
+    word: ADELE
+  - Found: 0
+    word: MADONNA
+  - Found: 0
+    word: JAYZ
+  - Found: 0
+    word: MILEYCYRUS
+  - Found: 0
+    word: DEMIM
+  - Found: 0
+    word: BRADPITT
+  - Found: 0
+    word: RIHANNA

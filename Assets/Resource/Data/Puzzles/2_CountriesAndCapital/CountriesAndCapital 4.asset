@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d837254a703d794fae5b795104c6e70, type: 3}
+  m_Name: CountriesAndCapital 4
+  m_EditorClassIdentifier: 
+  PlusPursentege: 0
+  timeInSecond: 110
+  Colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - N
+    - Q
+    - C
+    - W
+    - L
+    - F
+    - S
+    - X
+    - M
+    - U
+  - Size: 10
+    Row:
+    - V
+    - G
+    - T
+    - P
+    - Y
+    - G
+    - E
+    - F
+    - H
+    - M
+  - Size: 10
+    Row:
+    - M
+    - K
+    - U
+    - O
+    - B
+    - N
+    - O
+    - Z
+    - B
+    - J
+  - Size: 10
+    Row:
+    - J
+    - G
+    - A
+    - O
+    - X
+    - F
+    - U
+    - E
+    - B
+    - B
+  - Size: 10
+    Row:
+    - D
+    - P
+    - C
+    - B
+    - N
+    - I
+    - L
+    - L
+    - A
+    - T
+  - Size: 10
+    Row:
+    - G
+    - I
+    - C
+    - F
+    - Z
+    - J
+    - F
+    - U
+    - N
+    - Z
+  - Size: 10
+    Row:
+    - A
+    - I
+    - R
+    - E
+    - B
+    - I
+    - L
+    - O
+    - J
+    - K
+  - Size: 10
+    Row:
+    - C
+    - Z
+    - A
+    - S
+    - Y
+    - D
+    - H
+    - O
+    - U
+    - C
+  - Size: 10
+    Row:
+    - G
+    - S
+    - W
+    - V
+    - A
+    - L
+    - C
+    - W
+    - L
+    - S
+  - Size: 10
+    Row:
+    - F
+    - J
+    - G
+    - Z
+    - J
+    - Y
+    - F
+    - E
+    - B
+    - A
+  searchWords:
+  - Found: 0
+    word: SEOUL
+  - Found: 0
+    word: LIBERIA
+  - Found: 0
+    word: EGYPT
+  - Found: 0
+    word: TALLINN
+  - Found: 0
+    word: FIJI
+  - Found: 0
+    word: BANJUL
+  - Found: 0
+    word: ACCRA

@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d837254a703d794fae5b795104c6e70, type: 3}
+  m_Name: CountriesAndCapital 2
+  m_EditorClassIdentifier: 
+  PlusPursentege: 0
+  timeInSecond: 90
+  Colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - Y
+    - U
+    - N
+    - I
+    - B
+    - M
+    - Y
+    - H
+    - G
+    - U
+  - Size: 10
+    Row:
+    - Y
+    - K
+    - B
+    - N
+    - I
+    - L
+    - B
+    - U
+    - D
+    - D
+  - Size: 10
+    Row:
+    - W
+    - S
+    - U
+    - R
+    - D
+    - H
+    - D
+    - G
+    - R
+    - C
+  - Size: 10
+    Row:
+    - R
+    - K
+    - I
+    - G
+    - A
+    - L
+    - I
+    - L
+    - A
+    - M
+  - Size: 10
+    Row:
+    - H
+    - A
+    - Y
+    - T
+    - Y
+    - A
+    - F
+    - N
+    - B
+    - D
+  - Size: 10
+    Row:
+    - T
+    - N
+    - G
+    - Z
+    - S
+    - K
+    - J
+    - G
+    - A
+    - C
+  - Size: 10
+    Row:
+    - W
+    - J
+    - T
+    - I
+    - X
+    - Y
+    - K
+    - X
+    - T
+    - C
+  - Size: 10
+    Row:
+    - F
+    - I
+    - Z
+    - G
+    - R
+    - T
+    - A
+    - Q
+    - S
+    - Z
+  - Size: 10
+    Row:
+    - Q
+    - V
+    - J
+    - A
+    - I
+    - X
+    - Y
+    - P
+    - G
+    - J
+  - Size: 10
+    Row:
+    - O
+    - M
+    - A
+    - N
+    - C
+    - Y
+    - Q
+    - B
+    - Y
+    - X
+  searchWords:
+  - Found: 0
+    word: MALI
+  - Found: 0
+    word: RABAT
+  - Found: 0
+    word: OMAN
+  - Found: 0
+    word: KIGALI
+  - Found: 0
+    word: RIGA
+  - Found: 0
+    word: DUBLIN
